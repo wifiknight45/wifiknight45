@@ -7,7 +7,6 @@ I know a wee bit of Russian.
 cybersecurity student and possible aspiring data scientist
 - I’m  interested in collaboration on new projects that will help me to learn/understand the intricacies and nuances of systems/networks etc. 
 - 📫 How to reach me (email: vichy6@proton.me)
--Pronouns: dope/af
 - ⚡ Quote: "Great things are not done by impulse, but by a series of small things brought together." -Vincent Van Gogh
 -
 
