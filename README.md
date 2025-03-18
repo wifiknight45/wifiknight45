@@ -1,5 +1,10 @@
--  hello, I’m @wifiknight44
-currently learning scripting in Python3 && bash.
+hello, I'm @wifiknight45
+salut, je suis @wifiknight45
+hola, yo soy @wifiknight45
+Ich Spreche Deutsch auch
+I know a wee bit of Russian. 
+
+cybersecurity student and possible aspiring data scientist
 - I’m  interested in collaboration on new projects that will help me to learn/understand the intricacies and nuances of systems/networks etc. 
 - 📫 How to reach me (email: vichy6@proton.me)
 -Pronouns: dope/af
