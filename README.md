@@ -6,9 +6,8 @@ Cybersecurity | Linguistics | OpsDev | Open Source Software | Penetration Testin
 languages
 HTML, CSS, JavaScript, TypeScript, Python 
 
-# 📫 How to reach me
-      a) email: wifiknight45@proton.me
-      b) sms/mms: +1 913 717 8714
+# email: wifiknight45@proton.me
+
   
 ⚡ Quotes:
   
