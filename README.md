@@ -1,22 +1,19 @@
-hello, I'm @wifiknight45
+hello, I'm @wifiknight45 | salut, je suis @wifiknight45 | hola, yo soy @wifiknight45 | Ich Spreche Deutsch auch | Я немного знаю русский
 
-salut, je suis @wifiknight45
+areas of expertise
+Cybersecurity | Linguistics | OpsDev | Open Source Software | Penetration Testing | Security Auditing 
 
-hola, yo soy @wifiknight45
+languages
+HTML, CSS, JavaScript, TypeScript, Python 
 
-Ich Spreche Deutsch auch
-
-Я немного знаю русский
-
-
-- I’m  interested in collaboration on new projects that will help me to learn/understand the intricacies and nuances of systems/networks etc. 
-- 📫 How to reach me
+# 📫 How to reach me
       a) email: wifiknight45@proton.me
+      b) sms/mms: +1 913 717 8714
   
-- ⚡ Quotes:
+⚡ Quotes:
   
- "The quieter you become, the more you are able to hear."
-- 
+# "The quieter you become, the more you are able to hear."
+
 
 "Great things are not done by impulse, but by a series of small things brought together." -Vincent Van Gogh
 
