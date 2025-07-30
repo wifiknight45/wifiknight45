@@ -10,7 +10,8 @@ Ich Spreche Deutsch auch
 
 
 - I’m  interested in collaboration on new projects that will help me to learn/understand the intricacies and nuances of systems/networks etc. 
-- 📫 How to reach me (email: vichy6@proton.me)
+- 📫 How to reach me
+      a) email: wifiknight45@proton.me
   
 - ⚡ Quotes:
   
