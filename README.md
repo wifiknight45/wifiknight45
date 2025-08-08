@@ -1,7 +1,5 @@
 hello, I'm @wifiknight45 | salut, je suis @wifiknight45 | hola, yo soy @wifiknight45 | Ich Spreche Deutsch auch | Я немного знаю русский
 
-areas of expertise
-Cybersecurity | Linguistics | OpsDev | Open Source Software | Penetration Testing | Security Auditing 
 
 languages
 HTML, CSS, JavaScript, TypeScript, Python 
