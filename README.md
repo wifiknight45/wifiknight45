@@ -6,11 +6,11 @@
 
 Welcome to my GitHub profile! I'm a passionate Python programmer with a passion for cybersecurity, actively building skills to transition into the cybersecurity field. I believe that strong programming fundamentals are essential for effective security work, and I'm leveraging my Python expertise to solve real-world security challenges.
 
-## 🎯 Career Objective
+## Career Objective
 
 Seeking an entry-level position in cybersecurity where I can apply my Python programming skills to contribute to threat detection, security automation, incident response, and vulnerability assessment initiatives.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 - **Python** (Primary) - Advanced proficiency in scripting, automation, and security tool development
@@ -46,5 +46,4 @@ import matplotlib     # Security metrics visualization
 
 
 Contact
-Portfolio: wifiknight45.github.io/cv.io
 Email: wifiknight45@proton.me
