@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center"> Robert Hodgkiss</h1>
-<h3 align="center"> Artist | Python Full-Stack Developer | Mythic Technologist | -   </h3>
+<h3 align="center"> Artist | Python Full-Stack Developer | Mythic Technologist    </h3>
 
 ---
 
