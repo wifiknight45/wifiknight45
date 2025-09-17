@@ -40,7 +40,7 @@ From **fractal worlds** to **sacred geometry overlays**, my work blends operatio
 ---
 
 ## 🎨 Code as Canvas
-> "Every function is a chamber, every loop a corridor — the labyrinth grows."
+> "Every function is a chamber, every loop a corridor . . . the labyrinth grows."
 
 I treat codebases as **narrative spaces**:
 - **Achievement systems** and **hidden unlocks** reward exploration.
