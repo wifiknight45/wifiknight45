@@ -4,7 +4,7 @@
 
 **Entry-Level Python Developer | Aspiring Cybersecurity Professional**
 
-Welcome to my GitHub profile! I'm a passionate Python programmer with a passion for cybersecurity, actively building skills to transition into the cybersecurity field. I believe that strong programming fundamentals are essential for effective security work, and I'm leveraging my Python expertise to solve real-world security challenges.
+Welcome to my GitHub profile! I'm a  lifelong student + Python programmer with a passion for cybersecurity, actively building skills to transition into the cybersecurity field. I believe that strong programming fundamentals are essential for effective security work, and I'm leveraging my Python expertise to solve real-world security challenges.
 
 ## Career Objective
 
